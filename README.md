@@ -1,3 +1,5 @@
+<img src="github-banner-gael.png" alt="banner that says Gaël Leroy - Frontend Engineer" width="100%">
+
 ### Hi there 👋
 
 <!--
